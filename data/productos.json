@@ -1,0 +1,9 @@
+[
+    {
+        "id": 5,
+        "nombre": "pipe",
+        "descripcion": "montoya",
+        "precio": 100.0,
+        "cantidad": 50
+    }
+]
